@@ -1,6 +1,6 @@
 ---
 title: "技術を愛する自分はどこから？"
-emoji: "♥"
+emoji: "♥️"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: []
 published: true
