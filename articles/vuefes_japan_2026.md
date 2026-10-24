@@ -8,7 +8,7 @@ published: false
 
 # VueFes Japan 2026に参加してきました
 
-![[../images/vuefes_2026/krz_vuefes_2026_1.webp]]
+![[/images/vuefes_2026/krz_vuefes_2026_1.webp]]
 
 ## はじめに
 
@@ -33,14 +33,14 @@ published: false
 東京メトロ丸の内線で向かい、大手町駅で降りてそのまま、A5出口から直通で会場に行けました
 (これマジで神だった...)
 
-![[../images/vuefes_2026/krz_vuefes_2026_0.webp]]
+![[/images/vuefes_2026/krz_vuefes_2026_0.webp]]
 
 当日微妙に天気悪かったり寒かったりだったので、屋内経由で迎えるのは凄く体験が良かった。これもUXかもしれない()
 
 会場は全体的にとにかくおしゃれ！！
 フロントエンドカンファレンスだな〜って感じがすごいするし、ワクワクしました。
 
-![[../images/vuefes_2026/krz_vuefes_2026_4.webp]]
+![[/images/vuefes_2026/krz_vuefes_2026_4.webp]]
 
 なんとVueFes Japan、事前登録時にネームカードの申し込みをしておけばこんなに可愛いタグを貰えちゃいます。まじでいいこれ。
 
@@ -49,7 +49,7 @@ published: false
 
 カンファレンス参加経験、これで2回目とまだまだ浅いんですが、このワクワクは恐らくずっと変わらず楽しめるでしょう...！
 
-![[../images/vuefes_2026/krz_vuefes_2026_2.webp]]
+![[/images/vuefes_2026/krz_vuefes_2026_2.webp]]
 
 ## オープニング〜
 
