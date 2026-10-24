@@ -3,7 +3,7 @@ title: VueFes Japan 2026に参加してきた
 emoji: ⛅️
 type: tech
 topics: ["vue", "html", "css", "javascirpt", "web"]
-published: false
+published: true
 ---
 
 # VueFes Japan 2026に参加してきました
